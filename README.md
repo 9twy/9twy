@@ -45,6 +45,9 @@
 <p align="left">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=9twy&show_icons=true&count_private=true&hide=stars,prs&include_all_commits=true" alt="9twy's GitHub stats" />
 </p>
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=9twy&" alt="9twy's streak stats" />
+</p>
 
 <!-- Commits and Forks Statistics -->
 
