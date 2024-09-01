@@ -1,13 +1,6 @@
 <h1 align="center">Hi 👋, I'm Saeed</h1>
 <h3 align="center">A passionate Full Stack Developer from Saudi Arabia</h3>
 
-<!-- Trophy Section (Optional) -->
-<!-- <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=9twy" alt="9twy" />
-  </a>
-</p> -->
-
 - 🔭 I’m currently working on **Nasaah**, a web application for the sports field.
 - 🌱 I’m currently learning **React Native**.
 - 💬 Ask me about **Django, Figma**.
@@ -46,13 +39,20 @@
   </a>
 </p>
 
-<!-- GitHub Stats Section (Optional) -->
+<!-- GitHub Stats Section -->
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=9twy&show_icons=true&locale=en&layout=compact" alt="9twy's top languages" />
 </p>
 
-<!-- Uncomment if you want to include overall stats -->
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=9twy&show_icons=true&locale=en" alt="9twy's GitHub stats" /></p> -->
+<p align="left">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=9twy&show_icons=true&count_private=true&hide=stars,prs&include_all_commits=true" alt="9twy's GitHub stats" />
+</p>
+
+<!-- Commits and Forks Statistics -->
+<p align="left">
+  <img src="https://img.shields.io/github/commit-activity/m/9twy/your-repo-name" alt="Commit Activity" />
+  <img src="https://img.shields.io/github/forks/9twy/your-repo-name?style=social" alt="Forks Count" />
+</p>
 
 <!-- Uncomment if you want to include streak stats -->
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=9twy&" alt="9twy's streak stats" /></p> -->
