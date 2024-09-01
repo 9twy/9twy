@@ -40,19 +40,14 @@
 </p>
 
 <!-- GitHub Stats Section -->
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=9twy&show_icons=true&locale=en&layout=compact" alt="9twy's top languages" />
-</p>
+
 
 <p align="left">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=9twy&show_icons=true&count_private=true&hide=stars,prs&include_all_commits=true" alt="9twy's GitHub stats" />
 </p>
 
 <!-- Commits and Forks Statistics -->
-<p align="left">
-  <img src="https://img.shields.io/github/commit-activity/m/9twy/your-repo-name" alt="Commit Activity" />
-  <img src="https://img.shields.io/github/forks/9twy/your-repo-name?style=social" alt="Forks Count" />
-</p>
+
 
 <!-- Uncomment if you want to include streak stats -->
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=9twy&" alt="9twy's streak stats" /></p> -->
