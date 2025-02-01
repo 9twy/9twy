@@ -51,6 +51,7 @@
 <!-- Commits and Forks Statistics -->
 <div style="text-align: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=9twy&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" alt="9twy's Stats">
+  <p></p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=9twy&theme=tokyonight&hide_border=false" alt="9twy's Streak">
 </div>
 
