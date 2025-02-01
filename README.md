@@ -46,15 +46,15 @@
 <!-- GitHub Stats Section -->
 
 
-<p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=9twy&show_icons=true&count_private=true&hide=stars,prs&include_all_commits=true" alt="9twy's GitHub stats" />
 
-</p>
-<p align="left">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=9twy&" alt="9twy's streak stats" />
-</p>
 
 <!-- Commits and Forks Statistics -->
+<div style="text-align: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=9twy&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" alt="9twy's Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=9twy&theme=tokyonight&hide_border=false" alt="9twy's Streak">
+</div>
+
+
 
 
 <!-- Uncomment if you want to include streak stats -->
