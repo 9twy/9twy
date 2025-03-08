@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Saeed</h1>
 <h3 align="center">A passionate Full Stack Developer from Saudi Arabia</h3>
 
-- 🔭 I’m currently working on **Nasaah**, a web application for the sports field.
-- 🌱 I’m currently learning **express js**.
-- 💬 Ask me about **Django, solidity**.
+- 🔭 I’m currently working on **Talent Home**, a web application for the hiring field.
+- 🌱 I’m currently learning **Foundry**.
+- 💬 Ask me about **Django**.
 - 📫 How to reach me: **saeed.abdullah.alghamdi@outlook.sa**.
 - 📄 Learn more about my experiences: [My Resume](https://acrobat.adobe.com/id/urn:aaid:sc:AP:ab0d0d96-75a2-45dd-aa7a-83e4853d834e).
 
